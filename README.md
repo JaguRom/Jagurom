@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agu!
-- 👀 I’m interested in front-end developing ux-ui design!
-- 🌱 I’m currently learning ccs and htlm5.
+- 👀 I’m interested in full-stack developing and ux-ui design!
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on different web design proyects.
 - 📫 How to reach me: romerojuanagustin10@gmail.com
 
